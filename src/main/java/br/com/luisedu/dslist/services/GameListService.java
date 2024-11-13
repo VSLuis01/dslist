@@ -1,7 +1,6 @@
 package br.com.luisedu.dslist.services;
 
 import br.com.luisedu.dslist.dto.GameListDTO;
-import br.com.luisedu.dslist.dto.GameMinDTO;
 import br.com.luisedu.dslist.repositories.GameListRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

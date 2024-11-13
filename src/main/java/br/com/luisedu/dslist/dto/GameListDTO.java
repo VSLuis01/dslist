@@ -1,8 +1,6 @@
 package br.com.luisedu.dslist.dto;
 
-import br.com.luisedu.dslist.entities.Game;
 import br.com.luisedu.dslist.entities.GameList;
-import org.springframework.beans.BeanUtils;
 
 public class GameListDTO {
 
